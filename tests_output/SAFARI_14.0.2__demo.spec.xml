@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="demo.spec"
+    errors="0" failures="0" hostname="" id="" package="demo.spec" skipped="0"
+    tests="1" time="2.460" timestamp="">
+  
+    <testcase name="Demo test Ecosia.org" classname="demo.spec" time="2.460" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

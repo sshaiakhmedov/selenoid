@@ -1,0 +1,23 @@
+{
+  "name": "nw2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "sleep 5 && ./node_modules/.bin/nightwatch ./tests/demo.spec.js",
+    "setupSeleniumServer": "webdriver-manager update",
+    "startSeleniumServer": "webdriver-manager start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "webdriver-manager": "^12.1.8"
+  },
+  "devDependencies": {
+    "nightwatch": "^1.5.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
