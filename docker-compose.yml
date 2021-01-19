@@ -23,7 +23,7 @@ services:
         "selenoid"
       ]
     ports:
-      - "4445:4444"
+      - "4444:4444"
   automation:
     networks:
       selenoid: null
